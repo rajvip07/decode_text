@@ -1,4 +1,3 @@
-#CSE 231 Project #4
 #   Given a text, find the decoded text using the shift 
 #   To perform this task, first decode the character in the string LETTERS
 #   Then find the shift of the characters in the cipher text 
